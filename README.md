@@ -5,6 +5,8 @@
 
 <img align="right" src="https://github.com/Umang3072/Umang3072/blob/main/sultan-alrefaei-programmer.gif" alt="Coding"  width="400"/>
 
+<h3 align="left">Talking about Personal Stuffs:</h3>
+
 - 🌱 I’m currently learning **Javascript , Python**
 
 - 💬 Ask me about **C , Java, Html5 , CSS3**
@@ -25,6 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umang3072&show_icons=true&locale=en&layout=compact" alt="umang3072" /></p>
 
+<h3 align="left">My Github Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=umang3072&show_icons=true&locale=en" alt="umang3072" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umang3072&" alt="umang3072" /></p>
