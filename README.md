@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umang3072&label=Profile%20views&color=0e75b6&style=flat" alt="umang3072" /> </p>
 
+<img align="right" src="https://github.com/Umang3072/Umang3072/blob/main/sultan-alrefaei-programmer.gif" alt="Coding"  width="400"/>
+
 - 🌱 I’m currently learning **Javascript , Python**
 
 - 💬 Ask me about **C , Java, Html5 , CSS3**
