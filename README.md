@@ -7,7 +7,7 @@
 
 <h3 align="left">Talking about Personal Stuffs:</h3>
 
-- 🌱 I’m currently learning **Javascript , Python**
+- 🌱 I’m currently learning **DSA , Python**
 
 - 💬 Ask me about **C , Java, Html5 , CSS3**
 
