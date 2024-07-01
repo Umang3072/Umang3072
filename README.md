@@ -8,9 +8,9 @@
 
 <h3 align="left">Talking about Personal Stuffs:</h3>
 
-- 🌱 I’m currently learning **DSA , Python**
+- 🌱 I’m currently learning **CRM, .NET CORE**
 
-- 💬 Ask me about **C , Java, Html5 , CSS3**
+- 💬 Ask me about **Java, .NET MVC**
 
 - 📫 How to reach me **umangsavaliya3072@gmail.com**
 
